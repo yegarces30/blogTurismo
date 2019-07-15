@@ -35,3 +35,14 @@ p{
   margin: 0px;
   padding: 0px;
 }
+
+#imagenAutor{
+    border-radius: 50% !important;
+}
+
+body{
+  background-image:url(../images/11.jpg);
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
